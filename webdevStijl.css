@@ -1,0 +1,19 @@
+html {
+    background-image: url(pink.jpeg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1 {
+    color: rgb(74, 13, 74);
+    background-color: rgb(247, 228, 231);
+    text-align: center;
+}
+h1 {
+    color: rgb(74, 13, 74);
+}
+
+li, a {
+    color: rgb(247, 228, 231);
+}

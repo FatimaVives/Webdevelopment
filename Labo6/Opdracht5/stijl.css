@@ -1,0 +1,24 @@
+html {
+    background-image: url(Wild.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1 {
+    color: aliceblue;
+    background-color: rgb(55, 89, 89);
+    text-align: center;
+}
+a[href="https://www.pinterest.com/"] {
+    background: url(icons8-pinterest-30.png) center left no-repeat;
+    color: aliceblue;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+}
+footer {
+    color: aliceblue;
+    font-size: large;
+    
+}
